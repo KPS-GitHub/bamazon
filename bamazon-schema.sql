@@ -24,5 +24,3 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
            ("Calvin & Hobbes Collection", "books", 100, 3),
            ("Skateboard", "sporting equipment", 75, 25),
            ("Coffee Maker", "cooking", 50, 100);
-
-SELECT * FROM products;
