@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "DU WebDev BC HW - amazon-like app to practice using sql",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KPS-GitHub/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  },
+  "bugs": {
+    "url": "https://github.com/KPS-GitHub/bamazon/issues"
+  },
+  "homepage": "https://github.com/KPS-GitHub/bamazon#readme"
+}
